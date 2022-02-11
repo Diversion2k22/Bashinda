@@ -1,0 +1,41 @@
+.site-hero{
+    
+    background-color: black;
+    color: black;
+    
+}
+.container{
+    background-color: black;
+    border: 8px solid black;
+}
+footer.section{
+    background-color: darkmagenta;
+}
+
+div.ml-auto{
+    background-color: orange;
+    padding-top: 22px;
+}
+
+div.media.media-custom.d-block.mb-4{
+    border: 5px solid darkgoldenrod;
+}
+
+div.row.full-height.align-items-center{
+    background-color: lightyellow;
+}
+
+.list-unstyled.menu li:hover{
+    background-color: darkgray;
+    border-radius: 28px;
+}
+
+h3:hover{
+    color: rgb(209, 57, 57);
+}
+form.sidebar-search{
+    border-radius: 7px;
+}
+div.side-box{
+    border-radius:7px;
+}
