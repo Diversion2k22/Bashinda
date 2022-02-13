@@ -495,7 +495,7 @@ textarea.form-control {
 }
 
 .media-custom .meta-post {
-  color: #ced4da;
+  color: black;
   text-transform: uppercase;
   letter-spacing: .1em;
 }
@@ -838,7 +838,7 @@ textarea.form-control {
 
 .post-list li a .meta {
   font-size: 13px;
-  color: #adb5bd;
+  color: black;
 }
 
 .post-list li a .image {
