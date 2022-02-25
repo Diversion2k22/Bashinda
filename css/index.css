@@ -1,0 +1,11 @@
+nav{
+  background-color: bisque;
+  border: 7px solid black;
+}
+.menu li:hover{
+    background-color: lightgrey;
+    border-radius:45px;
+  }
+  section.section.slider-section{
+    background-color:gainsboro;
+  }
