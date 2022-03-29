@@ -110,8 +110,9 @@ See the [open issues](https://github.com/acm-iem/Bashinda/issues) for a full lis
    
 <!-- CONTRIBUTING -->
 ## Contributions
-
-
+### Wanna See our Contributors:
+  <a href="https://github.com/Diversion2k22/Bashinda/graphs/contributors">Our Contributors</a>
+ 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
